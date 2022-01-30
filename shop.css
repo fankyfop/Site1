@@ -1,0 +1,517 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 357px;
+}
+
+.u-section-1 .u-image-1 {
+  filter: brightness(0.6);
+  height: 357px;
+  margin-top: 0;
+  margin-bottom: 0;
+}.u-section-2 .u-sheet-1 {
+  min-height: 592px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 438px;
+  background-image: url("images/301-3013812_sasuke-boruto-t-shirt.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 438px;
+  background-image: url("images/673-6738218_anime-t-shirts-kimetsu-no-yaiba-deviantart-hd.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 12px 27px;
+}
+
+.u-section-2 .u-image-3 {
+  min-height: 438px;
+  background-image: url("images/Japanese-Anime-Cartoon-Series-3D-HD-Printing-Men-s-T-shirt-Lycra-Polyester-Brand-Clothing-Street.jpg_640x640.jpg_.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 12px 13px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 360px;
+  min-height: 154px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 13px 30px 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.5rem;
+  width: 86px;
+  margin: 7px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  font-weight: 400;
+  margin: 7px auto 0;
+}
+
+.u-section-2 .u-group-2 {
+  width: 360px;
+  min-height: 154px;
+  margin: -154px auto 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 13px 30px 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 1.5rem;
+  width: 86px;
+  margin: 7px auto 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  font-weight: 400;
+  margin: 7px auto 0;
+}
+
+.u-section-2 .u-group-3 {
+  width: 360px;
+  min-height: 154px;
+  margin: -154px 0 0 auto;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-2 .u-text-5 {
+  font-size: 1.5rem;
+  margin: 13px 30px 0;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1.5rem;
+  width: 86px;
+  margin: 7px auto 0;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: none;
+  font-weight: 400;
+  margin: 7px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 361px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 361px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 361px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 277px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 277px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 277px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1299px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 623px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 623px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 623px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 904px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 392px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 392px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 392px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-2 .u-group-3 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 531px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 13px auto 0 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 383px;
+  background-image: url("images/s-l400.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 12px 9px;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 383px;
+  background-image: url("images/men-27s-t-shirts-500x500.jpg");
+  background-position: 44.3% 72.9%;
+  background-size: 120%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 12px 27px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 383px;
+  background-image: url("images/d5675c91bd5c4d2a0c62003dc5ad9039.jpg");
+  background-position: 50% 71.45%;
+  background-size: 120%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 12px 13px;
+}
+
+.u-section-3 .u-group-1 {
+  width: 360px;
+  min-height: 154px;
+  margin: -3px auto 0 0;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 13px 30px 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.5rem;
+  width: 86px;
+  margin: 7px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  font-weight: 400;
+  margin: 7px auto 0;
+}
+
+.u-section-3 .u-group-2 {
+  width: 360px;
+  min-height: 154px;
+  margin: -154px auto 0;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 13px 30px 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.5rem;
+  width: 86px;
+  margin: 7px auto 0;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  font-weight: 400;
+  margin: 7px auto 0;
+}
+
+.u-section-3 .u-group-3 {
+  width: 360px;
+  min-height: 154px;
+  margin: -152px 0 13px auto;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 1.5rem;
+  width: 235px;
+  margin: 10px auto 0;
+}
+
+.u-section-3 .u-text-6 {
+  font-size: 1.5rem;
+  width: 86px;
+  margin: 11px auto 0;
+}
+
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  font-weight: 400;
+  margin: 7px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 464px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 316px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 316px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 390px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 242px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 242px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 242px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1238px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 545px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 545px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 545px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 834px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 343px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 343px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 343px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-3 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-3 .u-group-3 {
+    width: 340px;
+  }
+}
